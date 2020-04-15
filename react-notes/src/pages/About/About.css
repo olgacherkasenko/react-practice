@@ -1,0 +1,9 @@
+.about {
+    width: 50%;
+    min-width: 400px;
+    margin: 10px auto;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    box-shadow: 5px 3px 7px #d3d3d3;
+    background-color: #f2f2f2;
+}
